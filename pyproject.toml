@@ -3,7 +3,7 @@ name = "generic"
 version = "0.1.0"
 description = "Reusable Robot Framework keywords and resources for testing"
 readme = "README.md"
-packages = [{include = "generic", from = "Main"}]
+packages = [{include = "generic", from = "src"}]
 package-mode = false
 requires-python = ">=3.12,<3.14" 
 dependencies = [
