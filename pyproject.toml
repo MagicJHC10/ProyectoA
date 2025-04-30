@@ -2,7 +2,6 @@
 name = "generic"
 version = "0.1.0"
 description = "Reusable Robot Framework keywords and resources for testing"
-authors = ["Your Name <your.email@example.com>"]
 readme = "README.md"
 packages = [{ include = "generic", from = "Main" }]
 
