@@ -1,5 +1,5 @@
 *** Settings ***
-Resource   ../Main/barrel.resource
+Resource   ../src/barrel.resource
 Test Setup    Handle Test Start
 Test Teardown    Handle Test Completion
 
